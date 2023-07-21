@@ -1,4 +1,4 @@
-## Weather App UI Design
+# Weather App UI Design
 This is a UI design project for a weather app created using Figma. The design includes various screens and elements that can be used to build a visually appealing and user-friendly weather app.
 
 ## Getting Started
