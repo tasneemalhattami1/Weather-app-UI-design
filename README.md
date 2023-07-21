@@ -6,6 +6,10 @@ You can open the prototype by clicking on the following link: https://www.figma.
 
 ## Preview Images
 Here are preview images of the weather app UI design:
+![diffrent-view](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/ece4de77-21f2-4d4f-bc8c-a8fd93fd7716)
+diffrent main view
+
+
 
 
 ## Collaborators
