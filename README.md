@@ -9,7 +9,7 @@ Here are preview images of the weather app UI design:
 ![diffrent-view](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/ece4de77-21f2-4d4f-bc8c-a8fd93fd7716)
 diffrent view
 
-![Uploading floww.png…]()
+![floww](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/65758585-7e14-42ce-8867-b7406038288d)
 
 
 ## Collaborators
