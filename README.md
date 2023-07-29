@@ -3,6 +3,7 @@ This is a UI design project for a weather app created using Figma. The design in
 
 ## Getting Started
 You can open the prototype and design file by clicking on the following links: [Weather App Prototype](https://www.figma.com/proto/dw0huTtIVSgCtEGV3eENec/weather-app?type=design&node-id=1-2&t=thWJQGlTpV2cfi4m-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
+
 [Weather App design file](https://www.figma.com/file/dw0huTtIVSgCtEGV3eENec/weather-app?type=design&node-id=0%3A1&mode=design&t=ysuQI4GOF6rXVa6N-1)
 
 ## Preview Images
