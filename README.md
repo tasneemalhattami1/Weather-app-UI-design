@@ -2,14 +2,15 @@
 This is a UI design project for a weather app created using Figma. The design includes various screens and elements that can be used to build a visually appealing and user-friendly weather app.
 
 ## Getting Started
-You can open the prototype by clicking on the following link: [Weather App Figma Design](https://www.figma.com/proto/dw0huTtIVSgCtEGV3eENec/weather-app?page-id=0%3A1&type=design&node-id=1-2&viewport=544%2C421%2C0.25&t=QISw3kJIi0eD1alz-1&scaling=scale-down&starting-point-node-id=1%3A2)
+You can open the prototype and design file by clicking on the following links: [Weather App Prototype](https://www.figma.com/proto/dw0huTtIVSgCtEGV3eENec/weather-app?type=design&node-id=1-2&t=thWJQGlTpV2cfi4m-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design)
+[Weather App design file](https://www.figma.com/file/dw0huTtIVSgCtEGV3eENec/weather-app?type=design&node-id=0%3A1&mode=design&t=ysuQI4GOF6rXVa6N-1)
 
 ## Preview Images
 Here are preview images of the weather app UI design:
-![diffrent-view](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/ece4de77-21f2-4d4f-bc8c-a8fd93fd7716)
+![Free_Iphone_13_Pro_Mockup_4](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/a37e93ea-9c29-446a-bd65-ebac16d722fc)
 diffrent view
 
-![floww](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/65758585-7e14-42ce-8867-b7406038288d)
+![Free_Iphone_13_Pro_Mockup_4سس](https://github.com/tasneemalhattami1/Weather-app-UI-design/assets/140200023/a68e86d0-dbc3-46e2-b4e7-76393590262f)
 
 
 ## Collaborators
